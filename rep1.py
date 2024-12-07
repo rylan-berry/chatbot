@@ -8,7 +8,7 @@ maxIters = 5000
 evalInterval = 500
 lRate = 3e-4
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-print(torch.cuda.is_available())
+
 evalIters = 200
 nEmbed = 384
 nLayer = 6
@@ -16,8 +16,7 @@ nHead = 6
 dropout = 0.2
 
 torch.manual_seed(1337)
-#C:/Users/rylan/Documents/TKS/Focus AIData/Replicate1/input.txt
-with open('C:/Users/rylan/Documents/TKS/Focus AIData/Replicate1/input.txt', 'r', encoding='utf-8') as f:
+with open('input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 
