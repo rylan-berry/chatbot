@@ -39,6 +39,8 @@ m.load_state_dict(torch.load("model.pt", map_location=device))
 m = m.to(device)
 m.eval()
 
-context = torch.zeros((1,1), dtype=torch.long, device=device)
+text = input("Start the text: ")
+
+context = torch.tensor([encode(text)], dtype=torch.long, device=device)
 generated = m.generate(context, maxNewTokens=500)[0].tolist()
 print(decode(generated))
