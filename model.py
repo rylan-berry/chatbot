@@ -1,18 +1,20 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
+import json
 
-batchSize = 64
-blockSize = 256
+batchSize = 128
+blockSize = 152
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
-evalIters = 200
-nEmbed = 384
-nLayer = 6
-nHead = 6
-dropout = 0.2
+evalIters = 512
+nEmbed = 768
+nLayer = 12
+nHead = 12
+dropout = 0.1
 
-
+with open("merges.json", "r", encoding="utf-8") as f:
+    meta = json.load(f)
 
 
 
@@ -124,13 +126,14 @@ class BigramLanguageModel(nn.Module):
         return logits, loss
     
     def generate(self, idx, maxNewTokens):
-
+        specTokens = meta["spec_tokens"]
         for _ in range(maxNewTokens):
             idxCond = idx[:, -blockSize:]
             logits, loss = self(idxCond)
             logits = logits[:, -1, :]
             probs = F.softmax(logits, dim = -1)
-
             idxNext = torch.multinomial(probs, num_samples=1)
+            if(idxNext == specTokens["<!ENDDOC>"]):
+                break
             idx = torch.cat((idx, idxNext), dim=1)
         return idx

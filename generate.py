@@ -5,15 +5,17 @@ import torch.nn as nn
 from torch.nn import functional as F
 import json
 
-
 with open("merges.json", "r", encoding="utf-8") as f:
-    merges_json = json.load(f)
-merges = {tuple(map(int, k.split(','))): v for k, v in merges_json.items()}
+    meta = json.load(f)
+merges = {tuple(map(int, k.split(','))): v for k, v in meta["merges"].items()}
+specTokens = meta["spec_tokens"]
 
 #creates a dicitonary where a given token is turned into it's bytes
 vocab = {idx: bytes([idx]) for idx in range(256)}
 for(p0,p1), idx in merges.items():
   vocab[idx] = vocab[p0] + vocab[p1]
+vocab[specTokens["<!ENDDOC>"]] = b"<!ENDDOC>"
+vocab[specTokens["<!ENDPROMPT>"]] = b"<!ENDPROMPT>"
 
 #uses vocab to unmerge each item in ids, which is then uses the utf-8 decode to turn it into text
 def decode(ids):
