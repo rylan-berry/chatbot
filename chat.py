@@ -37,12 +37,21 @@ def encode(text):
 
 
 m = BigramLanguageModel(len(vocab))
-m.load_state_dict(torch.load("model.pt", map_location=device))
+m.load_state_dict(torch.load("finetuned_model.pt", map_location=device))
 m = m.to(device)
 m.eval()
 
-text = input("Start the text: ")
-context = encode(text)
-context = torch.tensor([context], dtype=torch.long, device=device)
-generated = m.generate(context, maxNewTokens=500)[0].tolist()
-print(decode(generated))
+
+text = input("User: ")
+while(text != ""):
+    text += " "
+    context = encode(text)
+    context.append(specTokens["<!ENDPROMPT>"])
+    inLen = len(context)
+    # print(context)
+    # print(decode(context))
+    context = torch.tensor([context], dtype=torch.long, device=device)
+    generated = m.generate(context, maxNewTokens=512)[0].tolist()
+    print("Bot: " + decode(generated[inLen:])) #print out should NOT include user input
+    text = input("User: ")
+print("End of conversation")

@@ -12,7 +12,7 @@ with open("merges.json", "r", encoding="utf-8") as f:
     meta = json.load(f)
 merges = {tuple(map(int, k.split(','))): v for k, v in meta["merges"].items()}
 specialTokens = meta["spec_tokens"]
-#converts test to utf-8, then itterates through it using the known merges list to merge byte pairs.
+#converts text to utf-8, then itterates through it using the known merges list to merge byte pairs.
 def encode(text):
   tokens = list(text.encode("utf-8"))
   while len(tokens) >= 2:

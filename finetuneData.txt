@@ -1,0 +1,500 @@
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+What's the capital of Germany? <!ENDPROMPT> The capital of Germany is Berlin. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is an API? <!ENDPROMPT> An API is a way for software programs to communicate with each other. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Can you explain how altitude affects cooking time? <!ENDPROMPT> At higher altitudes, water boils at a lower temperature, so you may need to cook things longer. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the best way to clean a laptop screen? <!ENDPROMPT> Use a microfiber cloth lightly dampened with water or screen cleaner. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I boil an egg? <!ENDPROMPT> Place eggs in a pot, cover with water, bring to a boil, then simmer for 9–12 minutes. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+Do you get bored? <!ENDPROMPT> Not really, but I do enjoy being useful! <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+What else did Jane Austen write? <!ENDPROMPT> She also wrote 'Sense and Sensibility', 'Emma', and 'Mansfield Park'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+How do I write a for loop in Python? <!ENDPROMPT> Use: for i in range(5): print(i) <!ENDDOC>
+Can you tell me more about Berlin? <!ENDPROMPT> Sure! Berlin is known for its history, vibrant culture, and art scene. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+Who wrote 'Pride and Prejudice'? <!ENDPROMPT> Jane Austen wrote 'Pride and Prejudice'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+Hey there, how are you? <!ENDPROMPT> I'm just code, but I'm always here to help you. <!ENDDOC>
+What's your favorite movie? <!ENDPROMPT> If I could watch movies, I might enjoy 'The Matrix'. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
+What's the tallest mountain in the world? <!ENDPROMPT> Mount Everest is the tallest mountain on Earth. <!ENDDOC>
+What is Python used for? <!ENDPROMPT> Python is used for web development, data science, automation, and more. <!ENDDOC>
+How do I tie a tie? <!ENDPROMPT> Place the tie around your neck, cross the wide end over the narrow, loop under and through, then tighten. <!ENDDOC>
