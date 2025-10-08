@@ -42,16 +42,19 @@ m = m.to(device)
 m.eval()
 
 
-text = input("User: ")
-while(text != ""):
-    text += " "
-    context = encode(text)
-    context.append(specTokens["<!ENDPROMPT>"])
+inp = input("User: ")
+context = torch.tensor([],dtype=torch.long,device=device)
+pGen = torch.tensor([],dtype=torch.long,device=device)
+while(inp != ""):
+    inp += " "
+    encInp =encode(inp)
+    encInp.append(specTokens["<!ENDPROMPT>"])
+    encInp = torch.tensor(encInp,dtype=torch.long,device=device)
+    context = torch.cat((context, pGen, torch.tensor([specTokens["<!ENDDOC>"]],dtype=torch.long,device=device), encInp),dim=0)
     inLen = len(context)
-    # print(context)
-    # print(decode(context))
-    context = torch.tensor([context], dtype=torch.long, device=device)
-    generated = m.generate(context, maxNewTokens=512)[0].tolist()
-    print("Bot: " + decode(generated[inLen:])) #print out should NOT include user input
-    text = input("User: ")
+
+    generated = m.generate(context, maxNewTokens=512)[0]
+    pGen = generated[inLen:]
+    print("Bot: " + decode(pGen.tolist())) #print out should NOT include context
+    inp = input("User: ")
 print("End of conversation")

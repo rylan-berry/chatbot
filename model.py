@@ -127,6 +127,11 @@ class BigramLanguageModel(nn.Module):
     
     def generate(self, idx, maxNewTokens):
         specTokens = meta["spec_tokens"]
+        thownENDDOC = False
+
+        if idx.dim() == 1:
+            idx = idx.unsqueeze(0)
+
         for _ in range(maxNewTokens):
             idxCond = idx[:, -blockSize:]
             logits, loss = self(idxCond)
@@ -134,6 +139,7 @@ class BigramLanguageModel(nn.Module):
             probs = F.softmax(logits, dim = -1)
             idxNext = torch.multinomial(probs, num_samples=1)
             if(idxNext == specTokens["<!ENDDOC>"]):
+                thownENDDOC = True
                 break
             idx = torch.cat((idx, idxNext), dim=1)
         return idx
