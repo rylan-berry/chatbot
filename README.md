@@ -5,6 +5,3 @@ The model requires external libraries to run and/or train. The only one necessar
 
 
 If you are completely training the model from scratch, here's the order in which the files need to be run. First, run trainVocab.py; this sets up the vocabulary to be used for encoding and decoding. Then, run dataCollect.py, which gathers all the wanted sites that will be used in training into a single, pre-encoded file. Currently, all data is gathered from www.gutenberg.org. With these processes complete, run train.py; this will train the model on the data. Now, once trained, run generate.py to test the model.
-
-
-Plans for the model:  Fix the messaging system. Currently, it doesn't include context.
